@@ -29,6 +29,8 @@ Quick NPM Commands
  * show the current configuration information pulled from *.npmrc*
 * `npm publish`
  * publish the current directory's package
+* `npm publish --tag beta`
+ * publish to NPM with the *latest* tag, so it will not be auto installed
 * `npm version <patch|minor|major>`
  * bump the **package.json** _version_ information
  * if executed in GIT repository, it will auto-create a tag as well

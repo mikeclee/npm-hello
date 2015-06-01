@@ -1,6 +1,6 @@
 {
   "name": "learn-npm-hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learning about NPM with a Hello",
   "main": "src/index.js",
   "scripts": {

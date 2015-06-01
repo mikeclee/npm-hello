@@ -1,0 +1,10 @@
+# Git Ignore list
+
+node_modules/
+tmp/
+
+tmp-*
+.*
+*.log
+
+!.gitignore

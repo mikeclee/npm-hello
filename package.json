@@ -1,0 +1,31 @@
+{
+  "name": "learn-npm-hello",
+  "version": "1.0.0",
+  "description": "Learning about NPM with a Hello",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha",
+    "zample:test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeclee/npm-hello.git"
+  },
+  "keywords": [
+    "learn",
+    "helloworld",
+    "hello",
+    "101"
+  ],
+  "author": "Mike Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeclee/npm-hello/issues"
+  },
+  "homepage": "https://github.com/mikeclee/npm-hello",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "shrinkwrap": "^0.4.0",
+    "sinon": "^1.14.1"
+  }
+}

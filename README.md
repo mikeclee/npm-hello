@@ -9,6 +9,7 @@ Steps Taken
 1. Create new module/package
  1. `npm init` to setup the basic **package.json** information
  1. create/test the code
+1. Authorize the development machine using `npm login`
 1. Publish to registry with `npm publish` in the project directory
 1. Check `http://npmjs.com/package/<package>`
 1. Finally run `npm install <package>` to ensure the package is available for use
